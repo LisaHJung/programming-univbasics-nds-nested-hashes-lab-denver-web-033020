@@ -6,6 +6,36 @@ PAT_M =  { name:  "Pat Monteseian", occupation: "Staff" }
 KATE_G = { name:  "Kate Gompert", occupation: "None" }
 BRUCE_G = { name:  "Bruce Green", occupation: "Fan of Mildred" }
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+=begin
 def assembled_aoh
   aoh=[
     DON_G,
@@ -33,3 +63,4 @@ def aoh_update(aoh, row, key, new_value)
   aoh[row][key]=new_value
   aoh
 end
+=end
